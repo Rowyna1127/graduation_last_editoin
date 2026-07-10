@@ -1,0 +1,11 @@
+path: /kaggle/working/dataset
+train: train/images
+val: val/images
+test: test/images
+nc: 5
+names:
+- standing
+- falling
+- smoking
+- drinking
+- fire
